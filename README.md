@@ -37,7 +37,7 @@ Clases en otros paquetes:
 
 	   •	Team.java: Crea una lista de jugadores, agrega el tipo de huésped "Deportista" a cada elemento y la importa desde un archivo de texto que puede ser modificado.
 
-Ejecución del Programa
+Ejecución del Programa:
 
 Para ejecutar el programa, se debe ejecutar la clase Reception.java, que actúa como el punto de entrada principal del sistema. Desde esta clase se pueden realizar todas las operaciones de gestión de huéspedes, chefs, platillos y habitaciones dentro del hotel, así como generar las facturas finales para los huéspedes.
 
