@@ -28,11 +28,14 @@ Clases en el paquete principal:
 Clases en otros paquetes:
 
 1.	Paquete "Lecture": Contiene la clase Lecture.java, la cual se encarga de leer todos los datos de entrada necesarios para el funcionamiento del sistema.
-2.	Paquete de Ejemplo de Importación de Lista de Personas: Este paquete ejemplifica cómo importar una lista predefinida de personas (en este caso, jugadores de un equipo), modificarla y utilizarla dentro del proyecto principal.
+2.	Paquete de Ejemplo de Importación de Lista de Personas: Este paquete ejemplifica cómo importar una lista predefinida de personas (en este caso, jugadores de un equipo), modificarla y utilizarla dentro 
+        del proyecto principal.
 	
-•	Person.java: Define el objeto persona como una clase base para la creación de objetos específicos como jugadores.
-•	Player.java: Define el objeto jugador con sus atributos y métodos asociados.
-•	Team.java: Crea una lista de jugadores, agrega el tipo de huésped "Deportista" a cada elemento y la importa desde un archivo de texto que puede ser modificado.
+	   •	Person.java: Define el objeto persona como una clase base para la creación de objetos específicos como jugadores.
+
+	   •	Player.java: Define el objeto jugador con sus atributos y métodos asociados.
+
+	   •	Team.java: Crea una lista de jugadores, agrega el tipo de huésped "Deportista" a cada elemento y la importa desde un archivo de texto que puede ser modificado.
 
 Ejecución del Programa
 
