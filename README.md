@@ -41,4 +41,6 @@ Ejecución del Programa:
 
 Para ejecutar el programa, se debe ejecutar la clase Reception.java, que actúa como el punto de entrada principal del sistema. Desde esta clase se pueden realizar todas las operaciones de gestión de huéspedes, chefs, platillos y habitaciones dentro del hotel, así como generar las facturas finales para los huéspedes.
 
+Cabe decir que el java.doc esta creado e implementado, en la direccion: \HotelFollowersFoodBill\target\site\apidocs\index.html
+
 A continuación se anexa un enlace al diagrama de clases del proyecto: https://drive.google.com/file/d/1PhIWYlfbepJSsuEDKzC6FyF7CIywr9d7/view?usp=sharing
