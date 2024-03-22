@@ -1,0 +1,10 @@
+Fernando Perez 1045789234 Colombiano 1.0
+Luisa Müller 2056745893 Alemana 1.0
+Hans Schmidt 3067894512 Francés 1.15
+Monika Wagner 4078956321 Español 1.0
+Stefan Becker 5089874563 Alemán 1.0
+Katja Schulz 6098745632 Francés 1.15
+Antoine Dubois 7012569847 Alemán 1.0
+Thomas Richter 8023658741 Estadounidense 1.0
+Anja Fischer 9031478526 Alemán 1.0
+Franz Bauer 1002589637 Alemán 1.0

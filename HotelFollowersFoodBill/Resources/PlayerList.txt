@@ -1,0 +1,11 @@
+name: Julian Fernandez, id: 1020451864, age: 17, phoneNo: 2041563451
+name: Alice Smith, id: 1001234567, age: 25, phoneNo: 1234567890
+name: Bob Johnson, id: 2009876543, age: 30, phoneNo: 2345678901
+name: Clara Garcia, id: 3006543210, age: 22, phoneNo: 3456789012
+name: David Lee, id: 4003210987, age: 28, phoneNo: 4567890123
+name: Emily Brown, id: 5008765432, age: 35, phoneNo: 5678901234
+name: Frank Rodriguez, id: 6005432109, age: 19, phoneNo: 6789012345
+name: Grace Martinez, id: 7002109876, age: 27, phoneNo: 7890123456
+name: Henry Nguyen, id: 8007654321, age: 33, phoneNo: 8901234567
+name: Isabel Kim, id: 9004321098, age: 24, phoneNo: 9012345678
+name: Jack Taylor, id: 1000987654, age: 29, phoneNo: 0123456789

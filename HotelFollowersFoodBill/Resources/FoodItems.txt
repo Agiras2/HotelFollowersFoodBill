@@ -1,0 +1,49 @@
+Hamburguesa, 8.5, 0
+Pizza Pepperoni, 10.99, 1
+Sopa de Tomate, 5.25, 2
+Ensalada César, 7.75, 3
+Pasta Alfredo, 9.99, 4
+Tacos de Pollo, 6.5, 5
+Filete de Salmón, 12.99, 6
+Sushi Variado, 15.5, 7
+Sandwich de Pollo, 6.99, 8
+Paella, 14.75, 9
+Tostadas de Atún, 7.25, 10
+Pollo Asado, 8.99, 11
+Costillas BBQ, 11.75, 12
+Sándwich de Queso Fundido, 6.25, 13
+Rollitos Primavera, 5.99, 14
+Curry de Verduras, 9.5, 15
+Espaguetis a la Boloñesa, 8.25, 16
+Calamares Fritos, 10.25, 17
+Pescado a la Parrilla, 13.5, 18
+Pechuga de Pollo Rellena, 11.99, 19
+Arroz Frito, 7.99, 20
+Burritos de Carne, 9.75, 21
+Tarta de Queso, 8.5, 22
+Albóndigas con Salsa, 10.25, 23
+Enchiladas Suizas, 9.99, 24
+Salmón Ahumado, 14.5, 25
+Filete Mignon, 19.99, 26
+Pollo al Curry, 12.75, 27
+Cazuela de Mariscos, 17.99, 28
+Tacos de Pescado, 13.75, 29
+Costillas de Ternera, 16.5, 30
+Ceviche, 11.25, 31
+Langosta Thermidor, 22.99, 32
+Tiramisú, 6.99, 33
+Fajitas de Pollo, 10.99, 34
+Carpaccio de Res, 12.5, 35
+Rollitos de Primavera de Camarones, 8.75, 36
+Pizza Vegetariana, 9.5, 37
+Sopa de Cebolla, 6.75, 38
+Pastel de Zanahoria, 7.99, 39
+Empanadas de Carne, 8.25, 40
+Tacos al Pastor, 7.5, 41
+Camarones a la Diabla, 15.25, 42
+Pollo a la Parrilla, 10.5, 43
+Crema de Champiñones, 6.99, 44
+Tarta de Manzana, 5.75, 45
+Pimientos Rellenos, 8.5, 46
+Risotto de Champiñones, 11.99, 47
+Guacamole y Totopos, 5.99, 48
